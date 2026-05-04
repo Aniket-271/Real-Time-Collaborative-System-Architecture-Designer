@@ -1,0 +1,2 @@
+# Real-Time-Collaborative-System-Architecture-Designer
+Real-Time Collaborative Architecture Designer is a web-based platform for creating and managing system architecture diagrams with multi-user collaboration. Built using Next.js, React, and TypeScript, it features real-time syncing via Liveblocks and converts visual designs into structured technical documentation using scalable backend workflows.
